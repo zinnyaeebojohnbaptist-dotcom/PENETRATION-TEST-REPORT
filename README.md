@@ -143,7 +143,5 @@ Finally, I learned that reconnaissance and scanning must always be performed wit
 
 ![wafw00f output](screenshots/5_wafw00f.png)
 
-![dnsrecon output](screenshots/7_zenmap.png)
-
 
 -End-
