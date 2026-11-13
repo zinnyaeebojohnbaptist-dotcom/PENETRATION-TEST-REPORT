@@ -63,19 +63,6 @@ For the second activity, I used **Zenmap** to perform network discovery on my lo
 
 I first used the Windows `ipconfig` command to identify my local IP address and LAN subnet. I then entered the subnet into Zenmap and selected **Ping Scan** to identify active hosts.
 
-The example results provided in the practical identified four live hosts:
-
-- `10.0.0.1`
-- `10.0.0.4`
-- `10.0.0.19`
-- `10.0.0.5`
-
-The example results also included four MAC addresses.
-
-After completing the scan, I opened the **Topology** section in Zenmap, enabled the legend and saved the network topology in PDF format as required by the practical task.
-
-**Note:** The actual subnet, number of hosts and addresses should be replaced with the results from my own network when submitting the report.
-
 # 5. Risk Analysis / Impact
 
 Based on the information collected during the footprinting and network scanning activities, I identified the following potential risks.
@@ -158,6 +145,5 @@ Finally, I learned that reconnaissance and scanning must always be performed wit
 
 ![dnsrecon output](screenshots/7_zenmap.png)
 
-![Zenmap scan and topology](screenshots/8_zenmap2.png)
 
 -End-
